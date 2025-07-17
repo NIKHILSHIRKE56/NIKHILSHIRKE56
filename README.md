@@ -1,5 +1,5 @@
 ### 👋 Hi, I'm Nikhil Shirke  
-💻 Software Architect | 🧠 AI/ML Enthusiast | 🧪 QA Specialist | 🎨 Interior Designer  
+💻 Software Architect | 🧠 AI/ML Enthusiast | 🧪 OPERATION Specialist
 🚀 I build real-world solutions using AI, automation, and smart systems — from women’s safety tech to cloud-based QA frameworks.
 
 ### 🔍 About Me
