@@ -15,7 +15,7 @@
 
 ---
 
-## 🧠 Key Projects
+## 🧠 Key AI Projects & AI Agents
 
 ### 🔐 [SHEye – AI Women’s Safety Platform](https://github.com/nikhilshirke/SHEye)
 AI system to detect harassment and accidents in real-time from CCTV feeds using YOLOv8 and OpenCV, with WhatsApp/SMS alerts via FastAPI.
