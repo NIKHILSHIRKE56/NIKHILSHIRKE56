@@ -51,7 +51,7 @@ Scripts and automation flows for everyday tasks — log monitoring, backups, rep
 
 ## 📫 Connect with Me
 
-🔗 [LinkedIn](https://www.linkedin.com/in/nikhil-shirke-079221145)  
-📧 Email: `nikhil.shirke92@gmail.com`  
+🔗 [LinkedIn](https://www.linkedin.com/in/NIHKILSHIRKE56)  
+📧 Email: `nikhilshirke56@gmail.com`  
 🌐 Portfolio Website (Coming Soon)
 
