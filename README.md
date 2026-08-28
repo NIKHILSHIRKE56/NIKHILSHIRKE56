@@ -18,10 +18,10 @@
 
 ## 🌟 Open-Source Contributions
 
-### 🔐 [marm-memory](https://github.com/Lyellr88/marm-memory) *(Merged)*
+### 🔐 [marm-memory](https://github.com/Lyellr88/marm-memory)
 Redesigned the Docker authentication verification logic, updating API key security protocols and protected route assertions for remote HTTP setups.
 
-### 🔍 [positron](https://github.com/posit-dev/positron) *(Under Review)*
+### 🔍 [positron](https://github.com/posit-dev/positron)
 Patched a Python interpreter discovery regression to properly classify standalone enterprise environments for Posit/RStudio's IDE.
 
 ---
