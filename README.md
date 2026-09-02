@@ -83,3 +83,7 @@ Scripts and automation flows for everyday tasks — log monitoring, backups, rep
 
 [![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=react&range=all_time)](https://github.com/anuraghazra/github-readme-stats)
 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=react&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=react)](https://git.io/streak-stats)
+
