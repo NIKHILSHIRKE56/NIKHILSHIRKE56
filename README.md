@@ -80,3 +80,6 @@ Scripts and automation flows for everyday tasks — log monitoring, backups, rep
 🔗 [LinkedIn](https://www.linkedin.com/in/NIHKILSHIRKE56)  
 📧 Email: `nikhilshirke56@gmail.com`  
 🌐 Portfolio Website: https://portfolio-weld-tau-39.vercel.app/
+
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=react&range=all_time)](https://github.com/anuraghazra/github-readme-stats)
+
